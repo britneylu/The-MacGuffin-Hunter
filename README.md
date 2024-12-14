@@ -140,3 +140,4 @@ Displays player’s score and end-of-game message.
 
 The function `input_get_keys` can be helpful.
 When the game ends, you should display the player's score. Check `display_draw_int` and `display_draw_text`.
+![gameExample](https://github.com/user-attachments/assets/c2d03f15-8143-4d1a-ae69-d9c784c34bde)
